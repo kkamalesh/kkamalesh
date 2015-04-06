@@ -1,1 +1,4 @@
-this is github
+_auth = ZGVwbG95ZXI6e0RFU2VkZX1tOUNRNDUwOFkySDM2YlpSQ2YwTmJ3PT0=  
+registry = http://sni4bees.artifactoryonline.com/sni4bees/api/npm/npm-virtual  
+always-auth = true  
+email = kkrishnan@scrippsnetworks.com  
